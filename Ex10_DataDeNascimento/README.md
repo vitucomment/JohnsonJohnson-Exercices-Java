@@ -4,5 +4,4 @@ calcule e mostre.
 #### a) a idade dessa pessoa em anos;
 #### b) a idade dessa pessoa em meses;
 #### c) a idade dessa pessoa em dias; considere todos os meses com 30 dias
-#### d) a idade dessa pessoa em semanas, considere que todos os messes possuem 4
-semanas;
+#### d) a idade dessa pessoa em semanas, considere que todos os messes possuem 4 semanas;
